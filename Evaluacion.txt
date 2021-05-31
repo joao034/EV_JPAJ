@@ -1,2 +1,4 @@
 Alain Joao
 Jacome Perrazo
+Java, PHP
+Oracle, MySQL
